@@ -10,7 +10,7 @@
 **삿포로 오도리 공원**
 ![오도리 공원](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Sapporo1.jpg/1280px-Sapporo1.jpg)
 
-## 비행편
+## 비행정보
 * **출국** : ZE0621
 	* 위치 : 인천공항 제1여객터미널
 	* 출발 : 서울(ICN)
@@ -26,24 +26,36 @@
 		
 ESTAR JET의 자세한 항공편에 대한 정보는 [**여기**](https://www.eastarjet.com/newstar/PGWHC00001)서 확인 가능하다.  
 
-### Line Breaks
-To force a line break, put two spaces and a newline (return) at the end of the line.
+## 숙박정보
+총 3박을 하게 되며, 1박은 리조트, 2박은 게스트하우스에서 지낸다.
 
-* This two-line bullet 
-won't break
-
-* This two-line bullet  
-will break
-
-Here is the code:
+* 미도리노카제 리조트 기타 유자와 
+	* 숙박 : 3월 1일 ~ 2일(1박)
+	* 체크인 : 15:00
+	* 체크아웃 : 11:00
 
 ```
-* This two-line bullet 
-won't break
-
-* This two-line bullet  
-will break
+* 버스예약필요
+* 스파서비스
+* 온천
+* 비즈니스 센터
+* 식사 3개 포함
 ```
+
+* 그리즈 삿포로 - 호스텔
+	* 숙박 : 3월 2일 ~ 4일(2박)
+	* 체크인 : 16:00
+	* 체크아웃 : 11:00
+	
+```
+* 호스텔 정보....
+```
+
+## 여행 일정
+
+
+
+
 
 ### Strong and Emphasize
 
