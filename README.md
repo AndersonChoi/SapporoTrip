@@ -7,8 +7,8 @@
 
 **삿포로**(일본어: 札幌市)는 일본 홋카이도의 도청 소재지이자 정치, 경제의 중심 도시다. 삿포로에 대한 자세한 내용은 [여기](https://ko.wikipedia.org/wiki/%EC%82%BF%ED%8F%AC%EB%A1%9C_%EC%8B%9C)서 볼 수 있다.
 
-**삿포로 오도리 공원**
-![오도리 공원](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Sapporo1.jpg/1280px-Sapporo1.jpg){: width="100" height="100"}
+**삿포로**
+![삿포로](https://travelblog.expedia.co.kr/wp-content/uploads/2016/12/06.jpg)
 
 ## 비행정보
 * **출국** : ZE0621
@@ -35,7 +35,6 @@ ESTAR JET의 자세한 항공편에 대한 정보는 [**여기**](https://www.ea
 	* 체크아웃 : 11:00
 
 ```
-* 버스예약필요
 * 스파서비스
 * 온천
 * 비즈니스 센터
@@ -48,7 +47,9 @@ ESTAR JET의 자세한 항공편에 대한 정보는 [**여기**](https://www.ea
 	* 체크아웃 : 11:00
 	
 ```
-* 호스텔 정보....
+* 시설 내 자전거 대여
+* 1인 아침식사(선택, 500엔)
+* 오도리역까지 6분 도보(500m)
 ```
 
 ## 여행 일정
